@@ -10,3 +10,10 @@ done
 for comp in frontend user ; do
   echo installing components - $comp
   done
+
+#example 2
+#Based on inputs
+
+for career in devops aws ; do
+  echo happy life in future - $career
+  done
