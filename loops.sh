@@ -7,6 +7,6 @@ while [ $a -gt 0 ]; do
 done
 
 #Based on inputs
-for comp frontend user ; do
+while comp in frontend user ; do
   echo installing components - $comp
   done
