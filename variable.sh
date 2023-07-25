@@ -11,6 +11,6 @@ name=$(sravan)
 age=$25
 role=(analyst)
 
-echo hello $name
+echo hello sravan $name
 echo your $age
 echo your position $role
