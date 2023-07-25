@@ -7,3 +7,12 @@ HELLO!!!(){
 }
 HELLO!!!
 echo see you next time BYE!!! - $?
+
+#function have its special variables
+ input() {
+   echo first argument -$1
+   echo second argument -$2
+   echo no of argumemnts -$#
+   echo all arguments -$*
+   }
+   input abcd 12345
