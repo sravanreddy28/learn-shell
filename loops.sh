@@ -1,5 +1,6 @@
 a=10
 
 while [ $a -gt 0 ]; do
-  echo $a greater than zero enjoy
+  echo hello
+  a=$(($a-1))
 done
