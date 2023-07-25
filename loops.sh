@@ -1,4 +1,4 @@
-a=10
+a=100
 
 while [ $a -gt 0 ]; do
   echo hello
