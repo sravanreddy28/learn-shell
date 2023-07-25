@@ -7,5 +7,5 @@ done
 
 #Based on inputs
 for comp catalog user shipping ; do
-  echo installing components -$comp
+  echo installing components - $comp
   done
